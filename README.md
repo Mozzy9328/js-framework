@@ -1,5 +1,7 @@
 # JS Frameworks Course Assignment
 
+This is a website showcasing the skills of JS Frameworks
+
 ## Description
 
 This app has these following paths:
