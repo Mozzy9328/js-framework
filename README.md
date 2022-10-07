@@ -1,5 +1,7 @@
 # JS Frameworks Course Assignment
 
+![image](https://github.com/Mozzy9328/js-framework/blob/main/public/JS%20Framework.png)
+
 This is a website showcasing the skills of JS Frameworks
 
 ## Description
