@@ -18,6 +18,8 @@ The admin path won't appear in your navigation.
 
 ### Home
 
+This is where the user can find all the latest blogs.
+
 You will find an API that returns at least:
 
 - an array of items
@@ -29,11 +31,15 @@ Each result will link to the detail page, passing a parameter in the URL.
 
 ### Detail
 
+This is where the user can find more information of the clicked blog
+
 This page will retrieve the parameter from the URL and use it in an API call to fetch one item.
 
 This will then display at least 3 properties from the item.
 
 ### Contact
+
+This is where the user can go and send in a contact me form.
 
 This will hold a form with the following inputs and validation:
 
@@ -44,6 +50,8 @@ This will hold a form with the following inputs and validation:
 - Message - required, minimum 10 characters.
 
 ### Login
+
+This is a login page for the admin team.
 
 This will hold another form with username/email and password fields.
 
